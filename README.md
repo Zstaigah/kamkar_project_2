@@ -8,3 +8,6 @@ Recently, the classic rockyou wordlist was also included for benchmarking and co
 
 ## Warning:
 During the research of PassGAN//PassGPT we found that most sources are old/obsolete. This is the reason we made a python tool to accomplish the endpoint of w working project.
+
+
+## Find the documentation here:  <a>https://github.com/Zstaigah/Hash_N_Crack/blob/main/doc.md</a>
